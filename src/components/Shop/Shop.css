@@ -10,7 +10,7 @@
 }
 .cart-container{
     background: rgba(255, 153, 0, 0.3);
-    text-align: center;
+    
 }
 @media screen and (max-width:1280px) {
     .products-container{
